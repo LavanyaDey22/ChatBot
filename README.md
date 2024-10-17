@@ -1,25 +1,3 @@
-# BonBot-A-chatbot-for-Mental-health-support
-### TEAM 72 : Awimmowe
+#chatbot-for-Mental-health-support
 
-## STEPS TO EXECUTE THE CHATBOT:
-
-(1) Unzip the two zip files.(src and public)
-
-(2) Execute the following command in the same directory to install necessary dependencies:
-    ```
-    >npm install
-    ```
-    
-(3) Execute this statement to start the local react server:
-    ```
-    >npm start
-    ```
-    
-    
-(4) Run the following command to run the FLASK API:
-    ```
-    >py final.py
-    ```
-    
-### Demo : To see the working of the chatbot, [Click Here](https://youtu.be/ARw1DvzMrKM)
-
+The AI-Powered Virtual Mental Health Companion is a chatbot designed to provide emotional support and mental health guidance using AI. It interacts with users, offering personalized responses based on their emotional state, helping with stress relief, and directing them to resources or professional help when needed.
